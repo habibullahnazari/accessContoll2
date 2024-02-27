@@ -13,3 +13,6 @@ Django version. 5.x.x
 4- open project folder by cmd 
 5- run command: manage.py runserver
 6- open the browser  and enter http://127.0.0.1:8000
+7- go to admin: http://127.0.0.1:8000/admin
+   username: admin 
+   password: admin
